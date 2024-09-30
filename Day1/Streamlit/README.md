@@ -2,6 +2,7 @@
 
 ## An open source library for developing web interfaces in Python 
 
+Contains the PPT, resources and code for Streamlit apps demonstrated in the session
 
 ## Resources: 
 
